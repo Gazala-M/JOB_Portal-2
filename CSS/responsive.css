@@ -8,7 +8,7 @@
     height: 430px;
 }
 .card-client{
-    min-height: 600px;
+    min-height: 630px;
 }
 .card-heading {
     padding: 0px 20px;
@@ -352,6 +352,7 @@ footer img{
 @media only screen and (max-width: 600px){
     .card-recent{
         padding: 15px 30px;
+        text-align: center;
     }
 .recent-section .slick-slider{
     padding-left: 0px;
